@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400px" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=junaidsalam639&label=Profile%20views&color=0e75b6&style=flat" alt="junaidsalam639" /> 
+  <img src="https://komarev.com/ghpvc/?username=junaidsalam639&label=Profile%20views&color=0e75b6&style=flat" alt="junaidsalam495" /> 
 </p>
 
 ---
@@ -12,7 +12,7 @@
 ### About Me 🌱
 - 🎓 🚀 Passionate Frontend Developer at HNH Tech Solutions for 3+ years. 💻 Skilled in building modern, scalable web apps with React.js ⚛️ & Next.js ⚡**
 - 💻 All of my projects are available at [github.com/junaidsalam639](https://github.com/junaidsalam639).
-- 📫 How to reach me: **junaidsalam639@gmail.com**
+- 📫 How to reach me: **junaidsalam495@gmail.com**
 - ⚡ Fun fact: **I am funny 😎**
 
 ---
