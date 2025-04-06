@@ -4,14 +4,14 @@
 <img align="right" alt="coding" width="400px" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=junaidsalam639&label=Profile%20views&color=0e75b6&style=flat" alt="junaidsalam495" /> 
+  <img src="https://komarev.com/ghpvc/?username=junaidsalam495&label=Profile%20views&color=0e75b6&style=flat" alt="junaidsalam495" /> 
 </p>
 
 ---
 
 ### About Me 🌱
 - 🎓 🚀 Passionate Frontend Developer at HNH Tech Solutions for 3+ years. 💻 Skilled in building modern, scalable web apps with React.js ⚛️ & Next.js ⚡**
-- 💻 All of my projects are available at [github.com/junaidsalam639](https://github.com/junaidsalam639).
+- 💻 All of my projects are available at [github.com/junaidsalam495](https://github.com/junaidsalam495).
 - 📫 How to reach me: **junaidsalam495@gmail.com**
 - ⚡ Fun fact: **I am funny 😎**
 
@@ -19,10 +19,10 @@
 
 ### Connect with Me 🤝
 <p align="left">
-  <a href="https://github.com/junaidsalam639" target="_blank">
+  <a href="https://github.com/junaidsalam495" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="mailto:junaidsalam639@gmail.com" target="_blank">
+  <a href="mailto:junaidsalam495@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
@@ -84,14 +84,14 @@
 
 ### GitHub Stats 📊
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=junaidsalam639&show_icons=true&locale=en&layout=compact&theme=radical" alt="junaidsalam639" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=junaidsalam639&show_icons=true&locale=en&theme=radical" alt="junaidsalam639" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=junaidsalam639&theme=radical" alt="junaidsalam639" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=junaidsalam495&show_icons=true&locale=en&layout=compact&theme=radical" alt="junaidsalam495" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=junaidsalam495&show_icons=true&locale=en&theme=radical" alt="junaidsalam495" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=junaidsalam495&theme=radical" alt="junaidsalam495" />
 </p>
 
 ---
 
 ### Thanks for Visiting! 🚀
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=junaidsalam639&label=Profile%20views&color=0e75b6&style=flat" alt="junaidsalam639" /> 
+  <img src="https://komarev.com/ghpvc/?username=junaidsalam495&label=Profile%20views&color=0e75b6&style=flat" alt="junaidsalam495" /> 
 </p>
